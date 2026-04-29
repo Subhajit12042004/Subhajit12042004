@@ -1,13 +1,22 @@
 <h1 align="center">Hi 👋, I'm Subhajit Hazra</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;DSA+Enthusiast;Problem+Solver;Building+Real-World+Projects&center=true&width=500&height=45">
+</p>
+
 <p align="center">
   🚀 Aspiring Software Developer | 💻 Full-Stack Developer | 🧠 Problem Solver
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Subhajit12042004&label=Profile%20views&color=blue&style=flat" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Subhajit12042004">
     <img src="https://img.shields.io/github/followers/Subhajit12042004?label=Followers&style=social" />
   </a>
-  <a href="https://leetcode.com/">
+  <a href="https://leetcode.com/u/Subhajithazra/">
     <img src="https://img.shields.io/badge/LeetCode-400%2B%20Solved-orange?style=flat-square" />
   </a>
   <a href="https://www.linkedin.com/in/subhajit-info/">
